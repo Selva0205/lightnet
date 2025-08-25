@@ -1,0 +1,2 @@
+# lightnet
+Simple website
